@@ -1,0 +1,49 @@
+{
+  "name": "advanced-task-manager",
+  "version": "1.0.0",
+  "description": "A modern web application for task management with a progression manager, advanced calendar, and Pomodoro timer.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "task manager",
+    "pomodoro",
+    "calendar",
+    "progression",
+    "react",
+    "tailwindcss"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.0",
+    "tailwindcss": "^2.2.19",
+    "chart.js": "^3.7.0",
+    "recharts": "^2.1.0",
+    "react-big-calendar": "^0.40.0",
+    "zustand": "^3.5.10"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.4",
+    "postcss": "^8.3.6",
+    "autoprefixer": "^10.3.7"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

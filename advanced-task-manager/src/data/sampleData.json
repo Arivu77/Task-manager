@@ -1,0 +1,67 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Complete React Project",
+      "description": "Finish the advanced task manager application using React and Tailwind CSS.",
+      "priority": "Urgent",
+      "deadline": "2023-10-15",
+      "category": "Work",
+      "status": "in-progress",
+      "attachments": [],
+      "createdAt": "2023-10-01"
+    },
+    {
+      "id": 2,
+      "title": "Grocery Shopping",
+      "description": "Buy groceries for the week.",
+      "priority": "Low",
+      "deadline": "2023-10-10",
+      "category": "Personal",
+      "status": "pending",
+      "attachments": [],
+      "createdAt": "2023-10-02"
+    },
+    {
+      "id": 3,
+      "title": "Study for Math Exam",
+      "description": "Review chapters 1 to 5 for the upcoming math exam.",
+      "priority": "Medium",
+      "deadline": "2023-10-20",
+      "category": "Study",
+      "status": "pending",
+      "attachments": [],
+      "createdAt": "2023-10-03"
+    },
+    {
+      "id": 4,
+      "title": "Prepare Presentation",
+      "description": "Create slides for the team meeting presentation.",
+      "priority": "High",
+      "deadline": "2023-10-12",
+      "category": "Work",
+      "status": "completed",
+      "attachments": ["presentation.pptx"],
+      "createdAt": "2023-10-04"
+    },
+    {
+      "id": 5,
+      "title": "Yoga Class",
+      "description": "Attend the weekly yoga class.",
+      "priority": "Low",
+      "deadline": "2023-10-08",
+      "category": "Personal",
+      "status": "pending",
+      "attachments": [],
+      "createdAt": "2023-10-05"
+    }
+  ],
+  "settings": {
+    "theme": "light",
+    "pomodoro": {
+      "workDuration": 25,
+      "shortBreakDuration": 5,
+      "longBreakDuration": 15
+    }
+  }
+}
